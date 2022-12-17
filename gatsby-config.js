@@ -8,7 +8,6 @@ module.exports = {
     siteUrl: 'https://varun-jayakumar-portfolio.netlify.app', // No trailing slash allowed!
     twitterUsername: '#',
   },
-  image: '/og1.png', // Path to your image you placed in the 'static' folder
 
   plugins: [
     `gatsby-plugin-react-helmet`,
