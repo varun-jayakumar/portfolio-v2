@@ -17,13 +17,13 @@ const Head = ({ title, description, image }) => {
             defaultTitle: title
             defaultDescription: description
             siteUrl
-            defaultImage: image
             twitterUsername
           }
         }
       }
     `,
   );
+  // defaultImage: image
 
   const {
     defaultTitle,
