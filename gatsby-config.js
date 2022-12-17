@@ -6,9 +6,10 @@ module.exports = {
     description:
       'Varun Jayakumar a software engineer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I’m pursueing Masters in Software Engineering Systems at Northeastern University.',
     siteUrl: 'https://varun-jayakumar-portfolio.netlify.app', // No trailing slash allowed!
-    image: '/og1.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '#',
   },
+  image: '/og1.png', // Path to your image you placed in the 'static' folder
+
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-styled-components`,
