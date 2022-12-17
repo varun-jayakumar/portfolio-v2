@@ -1,6 +1,5 @@
-<div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/main/src/images/logo.png" width="100" />
-</div>
+# Portfolio V2
+
 <!-- <h1 align="center">
   brittanychiang.com - v4
 </h1> -->
@@ -31,7 +30,7 @@ Please also note that I did not build this site with the intention of it being a
 
 ### TL;DR
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks! --> -->
+Yes, you can fork this repo. Please give me proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks! -->
 
 ## 🛠 Installation & Set Up
 
@@ -85,3 +84,7 @@ Yes, you can fork this repo. Please give me proper credit by linking back to [br
 | Lightest Slate | ![#ccd6f6](https://via.placeholder.com/10/ccd6f6?text=+) `#ccd6f6` |
 | White          | ![#e6f1ff](https://via.placeholder.com/10/e6f1ff?text=+) `#e6f1ff` |
 | Green          | ![#64ffda](https://via.placeholder.com/10/64ffda?text=+) `#64ffda` |
+
+Thanks for Reading!
+
+> Varun Jayakumar
