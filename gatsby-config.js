@@ -5,7 +5,7 @@ module.exports = {
     title: 'Varun Jayakumar',
     description:
       'Varun Jayakumar a software engineer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I’m pursueing Masters in Software Engineering Systems at Northeastern University.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+    siteUrl: 'https://varun-jayakumar-portfolio.netlify.app/', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '#',
   },
