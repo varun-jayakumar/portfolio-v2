@@ -2,9 +2,9 @@
 date: '1'
 title: 'MealTrain'
 cover: './MealTrain.jpg'
-github: '#'
-external: '#'
-tech: 
+github: 'https://github.com/varun-jayakumar/UI-mealTrain-order-service'
+external: 'https://varun-meal-train.netlify.app/auth/login'
+tech:
   - React
   - Redux
   - Tailwind CSS
