@@ -65,8 +65,9 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in designing, building and deploying exceptional
-        digital experiences. Currently, I’m pursuing Master's in Software Engineering Systems at{' '}
+        I’m a software engineer specializing in <b> designing, building and deploying </b>
+        exceptional digital experiences. Currently, I’m pursuing Master's in Software Engineering
+        Systems at{' '}
         <a
           href="https://www.linkedin.com/school/northeastern-university/"
           target="_blank"
