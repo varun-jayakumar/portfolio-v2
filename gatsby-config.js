@@ -3,7 +3,7 @@ const config = require('./src/config');
 module.exports = {
   siteMetadata: {
     title: 'Varun Jayakumar',
-    description: `Varun Jayakumar a software engineer specializing in building and deploying (and occasionally designing) exceptional digital experiences. Currently, I’m pursuing Master's in Software Engineering Systems at Northeastern University.`,
+    description: `Varun Jayakumar a software engineer specializing in designing, building and deploying exceptional digital experiences. Currently, I’m pursuing Master's in Software Engineering Systems at Northeastern University.`,
     siteUrl: 'https://varun-jayakumar-portfolio.netlify.app', // No trailing slash allowed!
     twitterUsername: '#',
   },
