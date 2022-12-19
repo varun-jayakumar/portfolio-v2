@@ -66,7 +66,7 @@ const Hero = () => {
     <>
       <p>
         I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m pursueing Masters in Software Engineering Systems at{' '}
+        digital experiences. Currently, I’m pursuing Master's in Software Engineering Systems at{' '}
         <a
           href="https://www.linkedin.com/school/northeastern-university/"
           target="_blank"
