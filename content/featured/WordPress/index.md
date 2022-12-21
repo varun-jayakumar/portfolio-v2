@@ -1,6 +1,6 @@
 ---
 date: '1'
-title: 'WordPress Agency - Design Site'
+title: 'WordPress Agency - Design Site (Wordpress)'
 cover: './main.jpg'
 github: ''
 external: 'https://xhy.c2f.myftpupload.com/'
