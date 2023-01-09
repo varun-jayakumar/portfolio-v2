@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '1'
 title: 'MealTrain'
 cover: './MealTrain.jpg'
 github: 'https://github.com/varun-jayakumar/UI-mealTrain-order-service'
