@@ -6,7 +6,7 @@ github: 'https://github.com/varun-jayakumar/Project-Management-Tool'
 external: 'http://d29u3jih1tsvhq.cloudfront.net/'
 tech:
   - React
-  - GrpahQL
+  - GraphQL
   - Bootstrap
   - Node JS (express)
   - Mongo DB
@@ -14,8 +14,8 @@ tech:
 
 Project Organiser Application helps teams plan, track, and manage projects efficiently. Change project status, link to clients, and collaborate with team members. Improves team efficiency and effectiveness by providing a central location for project information and activities.
 
-This project highlights my deployment skills, <b>CICD pipelines</b> are built for both frontend and backed.<b> Frontend deployed in S3 served by CloudFront </b>.
-<b> Backend is deployed in EC2 instance</b>. [click here to see deployement Architecture](https://www.canva.com/design/DAFXMshqZJM/vvFfLc1GOe5K-T15yrLBaQ/view?utm_content=DAFXMshqZJM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink).
+This project highlights my deployment skills, <b>CICD pipelines</b> are built for both frontend and backed.<b> Frontend React App. deployed in S3 served by CloudFront </b>.
+<b> Backend GraphQL API deployed in EC2 instance</b>. [click here to see deployement Architecture](https://www.canva.com/design/DAFXMshqZJM/vvFfLc1GOe5K-T15yrLBaQ/view?utm_content=DAFXMshqZJM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink).
 
 <b> AWS Services </b>: CodePipeline | CodeBuild | CodeDeploy | S3 | CloudFront | EC2
 
