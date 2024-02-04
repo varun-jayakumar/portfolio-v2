@@ -135,6 +135,10 @@ const About = () => {
     `MongoDB`,
     `AWS EC2`,
     `AWS S3`,
+    'Grails',
+    'Groovy',
+    'React.js',
+    'CI/CD (github Actions)',
   ];
 
   return (
