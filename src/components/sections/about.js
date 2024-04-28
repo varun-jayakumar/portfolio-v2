@@ -139,6 +139,11 @@ const About = () => {
     'Groovy',
     'React.js',
     'CI/CD (github Actions)',
+    'Terraform',
+    'Packer',
+    'Linux',
+    'Cypress - testing',
+    'Google Cloud',
   ];
 
   return (
@@ -157,9 +162,11 @@ const About = () => {
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://www.waveus.com/index.php">Waveus Network</a>, and for my final thesis
-              worked on a project leveraging Blockchain and web Technologies to provide secure and
-              reliable cargo monitoring application and currently pursuing Masters in{' '}
+              <a href="https://wyhf.org/">WYHF </a> |{' '}
+              <a href="https://coherehealth.com/"> Cohere Health </a> |{' '}
+              <a href="https://www.waveus.com/index.php"> Waveus Network </a>, and for my final
+              thesis worked on a project leveraging Blockchain and web Technologies to provide
+              secure and reliable cargo monitoring application and currently pursuing Masters in{' '}
               <b>Software Engineering Systems</b> at{' '}
               <a href="https://www.linkedin.com/school/northeastern-university/">
                 {' '}
