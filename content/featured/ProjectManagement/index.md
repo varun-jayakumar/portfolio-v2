@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '3'
 title: 'Project Organiser'
 cover: './Project_Organiser.jpg'
 github: 'https://github.com/varun-jayakumar/Project-Management-Tool'
